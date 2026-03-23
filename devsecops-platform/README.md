@@ -22,6 +22,12 @@ No manual steps. No credentials to rotate. No open ports.
 
 ## Architecture
 
+![Architecture](./architecture.png)
+
+---
+
+## Architecture
+
 ```
 Developer
     │
